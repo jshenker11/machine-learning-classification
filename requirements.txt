@@ -1,0 +1,8 @@
+# Python dependencies for the Life Expectancy Prediction notebook
+# Install with: pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+scikit-learn
+threadpoolctl
+notebook
